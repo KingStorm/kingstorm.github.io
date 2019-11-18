@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your_site_url_address/tags/</loc>
-    <lastmod>2019-11-17T22:18:10+08:00</lastmod>
+    <loc>https://kingstorm.github.io/tags/</loc>
+    <lastmod>2019-11-18T19:51:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/about/</loc>
-    <lastmod>2019-11-17T22:17:54+08:00</lastmod>
+    <loc>https://kingstorm.github.io/about/</loc>
+    <lastmod>2019-11-18T19:51:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>your_site_url_address/categories/</loc>
+    <loc>https://kingstorm.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>your_site_url_address/</loc>
+    <loc>https://kingstorm.github.io/</loc>
   </url>
   
 </urlset>
